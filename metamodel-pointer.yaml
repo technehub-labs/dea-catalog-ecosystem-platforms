@@ -1,0 +1,20 @@
+# Metamodel Pointer — Ecosystem Platform
+# Auto-generated from OpenDEAM v0.3.0 (ADR-0003). Do not edit manually.
+metamodel:
+  version: v0.3.0
+  entity_id: dea:entity-ecosystem-platform
+  class_alias: EP
+  layer: L1
+  building_block: L1-ecosystem-platforms
+  viewer_url: "https://technehub-labs.github.io/metamodel/?entity=EP"
+
+catalog:
+  name: Ecosystem Platform
+  repo: technehub-labs/dea-catalog-ecosystem-platforms
+  status: proposed
+
+links:
+  metamodel_repo: https://github.com/technehub-labs/dea-metamodel
+  root_model: https://github.com/technehub-labs/dea-architecture-framework
+  viewer: "https://technehub-labs.github.io/metamodel/?entity=EP"
+  github: https://github.com/technehub-labs/dea-catalog-ecosystem-platforms
