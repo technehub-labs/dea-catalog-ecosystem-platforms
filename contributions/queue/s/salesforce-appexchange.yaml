@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Salesforce AppExchange'
 name: Salesforce AppExchange
-description: 'Salesforce AppExchange — a published ecosystem platform operated by Salesforce (platform_kind:
-  marketplace; homepage https://appexchange.salesforce.com/).'
+description: 'Salesforce AppExchange — a published ecosystem platform operated by
+  Salesforce (platform_kind: marketplace; homepage https://appexchange.salesforce.com/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://appexchange.salesforce.com/ (official Salesforce AppExchange platform page; operator:
-      Salesforce)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://appexchange.salesforce.com/ (official Salesforce AppExchange
+      platform page; operator: Salesforce)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - salesforce
 slug: salesforce-appexchange
+assigned_id: dea:ecosystem-platform-salesforce-appexchange-62nj4t
+admitted: '2026-11-15'

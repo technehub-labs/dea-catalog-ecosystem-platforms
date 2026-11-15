@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Creative Cloud Marketplace'
 name: Creative Cloud Marketplace
-description: 'Creative Cloud Marketplace — a published ecosystem platform operated by Adobe (platform_kind:
-  marketplace; homepage https://exchange.adobe.com/).'
+description: 'Creative Cloud Marketplace — a published ecosystem platform operated
+  by Adobe (platform_kind: marketplace; homepage https://exchange.adobe.com/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://exchange.adobe.com/ (official Creative Cloud Marketplace platform page; operator:
-      Adobe)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://exchange.adobe.com/ (official Creative Cloud Marketplace platform
+      page; operator: Adobe)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - adobe
 slug: creative-cloud-marketplace
+assigned_id: dea:ecosystem-platform-creative-cloud-marketplace-pe8vwg
+admitted: '2026-11-15'

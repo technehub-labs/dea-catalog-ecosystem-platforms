@@ -1,0 +1,33 @@
+id: dea:ecosystem-platform-salesforce-developers-e29hbw
+type: EcosystemPlatform
+name: Salesforce Developers
+description: 'Salesforce Developers — a published ecosystem platform operated by Salesforce
+  (platform_kind: developer-portal; homepage https://developer.salesforce.com/).'
+version: 0.1.0
+lifecycle_status: proposed
+platform_kind: developer-portal
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://developer.salesforce.com/ (official Salesforce Developers
+      platform page; operator: Salesforce)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- developer-portal
+- salesforce

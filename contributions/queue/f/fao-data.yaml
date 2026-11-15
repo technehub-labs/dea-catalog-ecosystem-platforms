@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: FAO Data'
 name: FAO Data
-description: 'FAO Data — a published ecosystem platform operated by FAO (platform_kind: data-exchange;
-  homepage https://www.fao.org/data/en/).'
+description: 'FAO Data — a published ecosystem platform operated by FAO (platform_kind:
+  data-exchange; homepage https://www.fao.org/data/en/).'
 platform_kind: data-exchange
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://www.fao.org/data/en/ (official FAO Data platform page; operator: FAO)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://www.fao.org/data/en/ (official FAO Data platform page; operator:
+      FAO)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - data-exchange
 - fao
 slug: fao-data
+assigned_id: dea:ecosystem-platform-fao-data-whevff
+admitted: '2026-11-15'

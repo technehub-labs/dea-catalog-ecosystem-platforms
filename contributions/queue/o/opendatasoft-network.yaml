@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: OpenDataSoft Network'
 name: OpenDataSoft Network
-description: 'OpenDataSoft Network — a published ecosystem platform operated by OpenDataSoft (platform_kind:
-  data-exchange; homepage https://www.opendatasoft.com/).'
+description: 'OpenDataSoft Network — a published ecosystem platform operated by OpenDataSoft
+  (platform_kind: data-exchange; homepage https://www.opendatasoft.com/).'
 platform_kind: data-exchange
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://www.opendatasoft.com/ (official OpenDataSoft Network platform page; operator:
-      OpenDataSoft)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://www.opendatasoft.com/ (official OpenDataSoft Network platform
+      page; operator: OpenDataSoft)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - data-exchange
 - opendatasoft
 slug: opendatasoft-network
+assigned_id: dea:ecosystem-platform-opendatasoft-network-yn5e23
+admitted: '2026-11-15'

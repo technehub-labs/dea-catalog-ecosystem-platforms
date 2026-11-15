@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Google Public Data Explorer'
 name: Google Public Data Explorer
-description: 'Google Public Data Explorer — a published ecosystem platform operated by Google (platform_kind:
-  data-exchange; homepage https://www.google.com/publicdata/directory).'
+description: 'Google Public Data Explorer — a published ecosystem platform operated
+  by Google (platform_kind: data-exchange; homepage https://www.google.com/publicdata/directory).'
 platform_kind: data-exchange
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://www.google.com/publicdata/directory (official Google Public Data Explorer platform
-      page; operator: Google)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://www.google.com/publicdata/directory (official Google Public
+      Data Explorer platform page; operator: Google)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - data-exchange
 - google
 slug: google-public-data-explorer
+assigned_id: dea:ecosystem-platform-google-public-data-explorer-t2vjer
+admitted: '2026-11-15'

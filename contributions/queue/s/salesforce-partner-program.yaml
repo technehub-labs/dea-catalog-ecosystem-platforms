@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Salesforce Partner Program'
 name: Salesforce Partner Program
-description: 'Salesforce Partner Program — a published ecosystem platform operated by Salesforce (platform_kind:
-  partner-api-program; homepage https://partners.salesforce.com/).'
+description: 'Salesforce Partner Program — a published ecosystem platform operated
+  by Salesforce (platform_kind: partner-api-program; homepage https://partners.salesforce.com/).'
 platform_kind: partner-api-program
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://partners.salesforce.com/ (official Salesforce Partner Program platform page; operator:
-      Salesforce)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://partners.salesforce.com/ (official Salesforce Partner Program
+      platform page; operator: Salesforce)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - partner-api-program
 - salesforce
 slug: salesforce-partner-program
+assigned_id: dea:ecosystem-platform-salesforce-partner-program-qskqt4
+admitted: '2026-11-15'

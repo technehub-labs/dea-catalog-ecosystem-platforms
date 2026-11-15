@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Microsoft Store'
 name: Microsoft Store
-description: 'Microsoft Store — a published ecosystem platform operated by Microsoft (platform_kind: marketplace;
-  homepage https://apps.microsoft.com/).'
+description: 'Microsoft Store — a published ecosystem platform operated by Microsoft
+  (platform_kind: marketplace; homepage https://apps.microsoft.com/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://apps.microsoft.com/ (official Microsoft Store platform page; operator: Microsoft)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://apps.microsoft.com/ (official Microsoft Store platform page;
+      operator: Microsoft)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - microsoft
 slug: microsoft-store
+assigned_id: dea:ecosystem-platform-microsoft-store-ufznhx
+admitted: '2026-11-15'

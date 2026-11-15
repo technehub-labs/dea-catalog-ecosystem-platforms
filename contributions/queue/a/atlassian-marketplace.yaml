@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Atlassian Marketplace'
 name: Atlassian Marketplace
-description: 'Atlassian Marketplace — a published ecosystem platform operated by Atlassian (platform_kind:
-  marketplace; homepage https://marketplace.atlassian.com/).'
+description: 'Atlassian Marketplace — a published ecosystem platform operated by Atlassian
+  (platform_kind: marketplace; homepage https://marketplace.atlassian.com/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://marketplace.atlassian.com/ (official Atlassian Marketplace platform page; operator:
-      Atlassian)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://marketplace.atlassian.com/ (official Atlassian Marketplace
+      platform page; operator: Atlassian)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - atlassian
 slug: atlassian-marketplace
+assigned_id: dea:ecosystem-platform-atlassian-marketplace-cmbdsg
+admitted: '2026-11-15'

@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: NOAA Data'
 name: NOAA Data
-description: 'NOAA Data — a published ecosystem platform operated by NOAA (platform_kind: data-exchange;
-  homepage https://www.noaa.gov/information-technology/open-data-dissemination).'
+description: 'NOAA Data — a published ecosystem platform operated by NOAA (platform_kind:
+  data-exchange; homepage https://www.noaa.gov/information-technology/open-data-dissemination).'
 platform_kind: data-exchange
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://www.noaa.gov/information-technology/open-data-dissemination (official NOAA Data
-      platform page; operator: NOAA)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://www.noaa.gov/information-technology/open-data-dissemination
+      (official NOAA Data platform page; operator: NOAA)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - data-exchange
 - noaa
 slug: noaa-data
+assigned_id: dea:ecosystem-platform-noaa-data-se657q
+admitted: '2026-11-15'

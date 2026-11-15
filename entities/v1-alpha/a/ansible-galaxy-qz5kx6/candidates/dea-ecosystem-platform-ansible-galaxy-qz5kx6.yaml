@@ -1,0 +1,33 @@
+id: dea:ecosystem-platform-ansible-galaxy-qz5kx6
+type: EcosystemPlatform
+name: Ansible Galaxy
+description: 'Ansible Galaxy — a published ecosystem platform operated by Red Hat
+  (platform_kind: marketplace; homepage https://galaxy.ansible.com/).'
+version: 0.1.0
+lifecycle_status: proposed
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://galaxy.ansible.com/ (official Ansible Galaxy platform page;
+      operator: Red Hat)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- marketplace
+- red-hat

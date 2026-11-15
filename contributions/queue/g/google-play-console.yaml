@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Google Play Console'
 name: Google Play Console
-description: 'Google Play Console — a published ecosystem platform operated by Google (platform_kind:
-  developer-portal; homepage https://play.google.com/console).'
+description: 'Google Play Console — a published ecosystem platform operated by Google
+  (platform_kind: developer-portal; homepage https://play.google.com/console).'
 platform_kind: developer-portal
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://play.google.com/console (official Google Play Console platform page; operator:
-      Google)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://play.google.com/console (official Google Play Console platform
+      page; operator: Google)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - developer-portal
 - google
 slug: google-play-console
+assigned_id: dea:ecosystem-platform-google-play-console-pcf2nt
+admitted: '2026-11-15'

@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: data.europa.eu'
 name: data.europa.eu
-description: 'data.europa.eu — a published ecosystem platform operated by European Commission (platform_kind:
-  data-exchange; homepage https://data.europa.eu/).'
+description: 'data.europa.eu — a published ecosystem platform operated by European
+  Commission (platform_kind: data-exchange; homepage https://data.europa.eu/).'
 platform_kind: data-exchange
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/ (official data.europa.eu platform page; operator: European Commission)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://data.europa.eu/ (official data.europa.eu platform page; operator:
+      European Commission)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - data-exchange
 - european-commission
 slug: data-europa-eu
+assigned_id: dea:ecosystem-platform-data-europa-eu-jjpdfa
+admitted: '2026-11-15'

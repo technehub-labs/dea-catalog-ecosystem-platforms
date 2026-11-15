@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: SAP Store'
 name: SAP Store
-description: 'SAP Store — a published ecosystem platform operated by SAP (platform_kind: marketplace;
-  homepage https://store.sap.com/).'
+description: 'SAP Store — a published ecosystem platform operated by SAP (platform_kind:
+  marketplace; homepage https://store.sap.com/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://store.sap.com/ (official SAP Store platform page; operator: SAP)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://store.sap.com/ (official SAP Store platform page; operator:
+      SAP)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - sap
 slug: sap-store
+assigned_id: dea:ecosystem-platform-sap-store-d7etdq
+admitted: '2026-11-15'

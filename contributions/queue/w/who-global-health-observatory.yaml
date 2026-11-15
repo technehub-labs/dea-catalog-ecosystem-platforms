@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: WHO Global Health Observatory'
 name: WHO Global Health Observatory
-description: 'WHO Global Health Observatory — a published ecosystem platform operated by World Health
-  Organization (platform_kind: data-exchange; homepage https://www.who.int/data/gho).'
+description: 'WHO Global Health Observatory — a published ecosystem platform operated
+  by World Health Organization (platform_kind: data-exchange; homepage https://www.who.int/data/gho).'
 platform_kind: data-exchange
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://www.who.int/data/gho (official WHO Global Health Observatory platform page; operator:
-      World Health Organization)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://www.who.int/data/gho (official WHO Global Health Observatory
+      platform page; operator: World Health Organization)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - data-exchange
 - world-health-organiz
 slug: who-global-health-observatory
+assigned_id: dea:ecosystem-platform-who-global-health-observatory-6ncmpp
+admitted: '2026-11-15'

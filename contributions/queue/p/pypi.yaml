@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: PyPI'
 name: PyPI
-description: 'PyPI — a published ecosystem platform operated by Python Packaging Authority (platform_kind:
-  marketplace; homepage https://pypi.org/).'
+description: 'PyPI — a published ecosystem platform operated by Python Packaging Authority
+  (platform_kind: marketplace; homepage https://pypi.org/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://pypi.org/ (official PyPI platform page; operator: Python Packaging Authority)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://pypi.org/ (official PyPI platform page; operator: Python Packaging
+      Authority)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - python-packaging-aut
 slug: pypi
+assigned_id: dea:ecosystem-platform-pypi-jydyjq
+admitted: '2026-11-15'

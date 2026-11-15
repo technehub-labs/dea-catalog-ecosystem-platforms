@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: NASA Open Data Portal'
 name: NASA Open Data Portal
-description: 'NASA Open Data Portal — a published ecosystem platform operated by NASA (platform_kind:
-  data-exchange; homepage https://data.nasa.gov/).'
+description: 'NASA Open Data Portal — a published ecosystem platform operated by NASA
+  (platform_kind: data-exchange; homepage https://data.nasa.gov/).'
 platform_kind: data-exchange
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.nasa.gov/ (official NASA Open Data Portal platform page; operator: NASA)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://data.nasa.gov/ (official NASA Open Data Portal platform page;
+      operator: NASA)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - data-exchange
 - nasa
 slug: nasa-open-data-portal
+assigned_id: dea:ecosystem-platform-nasa-open-data-portal-pvpy6e
+admitted: '2026-11-15'

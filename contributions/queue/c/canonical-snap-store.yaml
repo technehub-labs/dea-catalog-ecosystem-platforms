@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Canonical Snap Store'
 name: Canonical Snap Store
-description: 'Canonical Snap Store — a published ecosystem platform operated by Canonical (platform_kind:
-  marketplace; homepage https://snapcraft.io/store).'
+description: 'Canonical Snap Store — a published ecosystem platform operated by Canonical
+  (platform_kind: marketplace; homepage https://snapcraft.io/store).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://snapcraft.io/store (official Canonical Snap Store platform page; operator: Canonical)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://snapcraft.io/store (official Canonical Snap Store platform
+      page; operator: Canonical)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - canonical
 slug: canonical-snap-store
+assigned_id: dea:ecosystem-platform-canonical-snap-store-j3sc9j
+admitted: '2026-11-15'

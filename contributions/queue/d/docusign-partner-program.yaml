@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: DocuSign Partner Program'
 name: DocuSign Partner Program
-description: 'DocuSign Partner Program — a published ecosystem platform operated by DocuSign (platform_kind:
-  partner-api-program; homepage https://partners.docusign.com/).'
+description: 'DocuSign Partner Program — a published ecosystem platform operated by
+  DocuSign (platform_kind: partner-api-program; homepage https://partners.docusign.com/).'
 platform_kind: partner-api-program
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://partners.docusign.com/ (official DocuSign Partner Program platform page; operator:
-      DocuSign)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://partners.docusign.com/ (official DocuSign Partner Program
+      platform page; operator: DocuSign)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - partner-api-program
 - docusign
 slug: docusign-partner-program
+assigned_id: dea:ecosystem-platform-docusign-partner-program-f5mu9r
+admitted: '2026-11-15'

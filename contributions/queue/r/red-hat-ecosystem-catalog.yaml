@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Red Hat Ecosystem Catalog'
 name: Red Hat Ecosystem Catalog
-description: 'Red Hat Ecosystem Catalog — a published ecosystem platform operated by Red Hat (platform_kind:
-  marketplace; homepage https://catalog.redhat.com/).'
+description: 'Red Hat Ecosystem Catalog — a published ecosystem platform operated
+  by Red Hat (platform_kind: marketplace; homepage https://catalog.redhat.com/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://catalog.redhat.com/ (official Red Hat Ecosystem Catalog platform page; operator:
-      Red Hat)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://catalog.redhat.com/ (official Red Hat Ecosystem Catalog platform
+      page; operator: Red Hat)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - red-hat
 slug: red-hat-ecosystem-catalog
+assigned_id: dea:ecosystem-platform-red-hat-ecosystem-catalog-cn6rkq
+admitted: '2026-11-15'

@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Figma Community'
 name: Figma Community
-description: 'Figma Community — a published ecosystem platform operated by Figma (platform_kind: marketplace;
-  homepage https://www.figma.com/community).'
+description: 'Figma Community — a published ecosystem platform operated by Figma (platform_kind:
+  marketplace; homepage https://www.figma.com/community).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://www.figma.com/community (official Figma Community platform page; operator: Figma)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://www.figma.com/community (official Figma Community platform
+      page; operator: Figma)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - figma
 slug: figma-community
+assigned_id: dea:ecosystem-platform-figma-community-3cdkkm
+admitted: '2026-11-15'
