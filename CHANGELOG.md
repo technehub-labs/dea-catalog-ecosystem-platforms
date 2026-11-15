@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-EP-CAT-06: Canonical Admission Wave
+
+103 EcosystemPlatform records promoted from the candidate slot to the canonical slot (provenance ladder completed per record; evidence citations preserved; ids untouched). Index: canonical 103, candidates 0. All gates green.
+
 ### CR-EP-CAT-04: EcosystemPlatform Candidate Admission Batch 02
 
 Admitted 103 new `EcosystemPlatform` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +103, canonical unchanged; queue entries flipped to `admitted`.
