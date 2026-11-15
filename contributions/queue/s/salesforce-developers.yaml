@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Salesforce Developers'
+name: Salesforce Developers
+description: 'Salesforce Developers — a published ecosystem platform operated by Salesforce (platform_kind:
+  developer-portal; homepage https://developer.salesforce.com/).'
+platform_kind: developer-portal
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://developer.salesforce.com/ (official Salesforce Developers platform page; operator:
+      Salesforce)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- developer-portal
+- salesforce
+slug: salesforce-developers

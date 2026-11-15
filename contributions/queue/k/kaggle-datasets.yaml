@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Kaggle Datasets'
+name: Kaggle Datasets
+description: 'Kaggle Datasets — a published ecosystem platform operated by Kaggle (Google) (platform_kind:
+  data-exchange; homepage https://www.kaggle.com/datasets).'
+platform_kind: data-exchange
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://www.kaggle.com/datasets (official Kaggle Datasets platform page; operator: Kaggle
+      (Google))'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- data-exchange
+- kaggle-google
+slug: kaggle-datasets

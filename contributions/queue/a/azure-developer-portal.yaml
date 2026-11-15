@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Azure Developer Portal'
+name: Azure Developer Portal
+description: 'Azure Developer Portal — a published ecosystem platform operated by Microsoft (platform_kind:
+  developer-portal; homepage https://azure.microsoft.com/en-us/products/developer-tools).'
+platform_kind: developer-portal
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://azure.microsoft.com/en-us/products/developer-tools (official Azure Developer Portal
+      platform page; operator: Microsoft)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- developer-portal
+- microsoft
+slug: azure-developer-portal

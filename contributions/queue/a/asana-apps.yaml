@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Asana Apps'
+name: Asana Apps
+description: 'Asana Apps — a published ecosystem platform operated by Asana (platform_kind: marketplace;
+  homepage https://asana.com/apps).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://asana.com/apps (official Asana Apps platform page; operator: Asana)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- asana
+slug: asana-apps

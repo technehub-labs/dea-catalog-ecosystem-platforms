@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Microsoft Teams Store'
+name: Microsoft Teams Store
+description: 'Microsoft Teams Store — a published ecosystem platform operated by Microsoft (platform_kind:
+  marketplace; homepage https://appsource.microsoft.com/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://appsource.microsoft.com/ (official Microsoft Teams Store platform page; operator:
+      Microsoft)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- microsoft
+slug: microsoft-teams-store

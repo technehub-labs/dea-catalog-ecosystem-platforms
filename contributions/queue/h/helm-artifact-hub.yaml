@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Helm Artifact Hub'
+name: Helm Artifact Hub
+description: 'Helm Artifact Hub — a published ecosystem platform operated by CNCF (platform_kind: marketplace;
+  homepage https://artifacthub.io/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://artifacthub.io/ (official Helm Artifact Hub platform page; operator: CNCF)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- cncf
+slug: helm-artifact-hub

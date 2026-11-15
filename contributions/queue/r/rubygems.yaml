@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: RubyGems'
+name: RubyGems
+description: 'RubyGems — a published ecosystem platform operated by RubyGems community (platform_kind:
+  marketplace; homepage https://rubygems.org/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://rubygems.org/ (official RubyGems platform page; operator: RubyGems community)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- rubygems-community
+slug: rubygems

@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Microsoft Partner Center'
+name: Microsoft Partner Center
+description: 'Microsoft Partner Center — a published ecosystem platform operated by Microsoft (platform_kind:
+  developer-portal; homepage https://partner.microsoft.com/).'
+platform_kind: developer-portal
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://partner.microsoft.com/ (official Microsoft Partner Center platform page; operator:
+      Microsoft)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- developer-portal
+- microsoft
+slug: microsoft-partner-center

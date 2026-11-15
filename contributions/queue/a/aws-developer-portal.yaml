@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: AWS Developer Portal'
+name: AWS Developer Portal
+description: 'AWS Developer Portal — a published ecosystem platform operated by Amazon (platform_kind:
+  developer-portal; homepage https://aws.amazon.com/developers/).'
+platform_kind: developer-portal
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://aws.amazon.com/developers/ (official AWS Developer Portal platform page; operator:
+      Amazon)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- developer-portal
+- amazon
+slug: aws-developer-portal

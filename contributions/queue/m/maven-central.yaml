@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Maven Central'
+name: Maven Central
+description: 'Maven Central — a published ecosystem platform operated by Sonatype (platform_kind: marketplace;
+  homepage https://central.sonatype.com/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://central.sonatype.com/ (official Maven Central platform page; operator: Sonatype)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- sonatype
+slug: maven-central

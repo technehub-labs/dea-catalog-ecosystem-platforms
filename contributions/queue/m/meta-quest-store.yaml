@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Meta Quest Store'
+name: Meta Quest Store
+description: 'Meta Quest Store — a published ecosystem platform operated by Meta (platform_kind: marketplace;
+  homepage https://www.meta.com/experiences/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://www.meta.com/experiences/ (official Meta Quest Store platform page; operator:
+      Meta)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- meta
+slug: meta-quest-store

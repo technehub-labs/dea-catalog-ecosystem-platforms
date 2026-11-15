@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Epic Games Store'
+name: Epic Games Store
+description: 'Epic Games Store — a published ecosystem platform operated by Epic Games (platform_kind:
+  marketplace; homepage https://store.epicgames.com/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://store.epicgames.com/ (official Epic Games Store platform page; operator: Epic
+      Games)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- epic-games
+slug: epic-games-store

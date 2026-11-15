@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: PayPal Partner Program'
+name: PayPal Partner Program
+description: 'PayPal Partner Program — a published ecosystem platform operated by PayPal (platform_kind:
+  partner-api-program; homepage https://developer.paypal.com/partners).'
+platform_kind: partner-api-program
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://developer.paypal.com/partners (official PayPal Partner Program platform page;
+      operator: PayPal)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- partner-api-program
+- paypal
+slug: paypal-partner-program

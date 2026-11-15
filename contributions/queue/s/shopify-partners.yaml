@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Shopify Partners'
+name: Shopify Partners
+description: 'Shopify Partners — a published ecosystem platform operated by Shopify (platform_kind: developer-portal;
+  homepage https://www.shopify.com/partners).'
+platform_kind: developer-portal
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://www.shopify.com/partners (official Shopify Partners platform page; operator: Shopify)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- developer-portal
+- shopify
+slug: shopify-partners
