@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 
-### CR-EP-CAT-01: EcosystemPlatform Candidate Admission Batch 02
+### CR-EP-CAT-04: EcosystemPlatform Candidate Admission Batch 02
 
 Admitted 103 new `EcosystemPlatform` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +103, canonical unchanged; queue entries flipped to `admitted`.
 
