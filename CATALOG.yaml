@@ -1,8 +1,8 @@
 catalog:
   abbreviation: EP
   counts:
-    candidates: 103
-    canonical: 0
+    candidates: 0
+    canonical: 103
     entities: 103
     open_change_requests: 0
     research_files: 0
@@ -17,1139 +17,1139 @@ catalog:
 
     '
   entities:
-  - candidate_count: 2
-    canonical_count: 0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-1password-integrations-bpczaf
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/0-9/1password-integrations-bpczaf/candidates/dea-ecosystem-platform-1password-integrations-bpczaf.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/0-9/1password-integrations-bpczaf/dea-ecosystem-platform-1password-integrations-bpczaf.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-adyen-partner-program-res6xs
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/adyen-partner-program-res6xs/candidates/dea-ecosystem-platform-adyen-partner-program-res6xs.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/adyen-partner-program-res6xs/dea-ecosystem-platform-adyen-partner-program-res6xs.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-amazon-appstore-5jhhce
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/amazon-appstore-5jhhce/candidates/dea-ecosystem-platform-amazon-appstore-5jhhce.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/amazon-appstore-5jhhce/dea-ecosystem-platform-amazon-appstore-5jhhce.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-ansible-galaxy-qz5kx6
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/ansible-galaxy-qz5kx6/candidates/dea-ecosystem-platform-ansible-galaxy-qz5kx6.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/ansible-galaxy-qz5kx6/dea-ecosystem-platform-ansible-galaxy-qz5kx6.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-apple-app-store-cc36ng
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/apple-app-store-cc36ng/candidates/dea-ecosystem-platform-apple-app-store-cc36ng.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/apple-app-store-cc36ng/dea-ecosystem-platform-apple-app-store-cc36ng.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-apple-developer-program-jgkje2
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/apple-developer-program-jgkje2/candidates/dea-ecosystem-platform-apple-developer-program-jgkje2.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/apple-developer-program-jgkje2/dea-ecosystem-platform-apple-developer-program-jgkje2.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-asana-apps-7v9q6p
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/asana-apps-7v9q6p/candidates/dea-ecosystem-platform-asana-apps-7v9q6p.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/asana-apps-7v9q6p/dea-ecosystem-platform-asana-apps-7v9q6p.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-atlassian-marketplace-cmbdsg
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/atlassian-marketplace-cmbdsg/candidates/dea-ecosystem-platform-atlassian-marketplace-cmbdsg.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/atlassian-marketplace-cmbdsg/dea-ecosystem-platform-atlassian-marketplace-cmbdsg.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-aws-developer-portal-xbkqq5
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/aws-developer-portal-xbkqq5/candidates/dea-ecosystem-platform-aws-developer-portal-xbkqq5.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/aws-developer-portal-xbkqq5/dea-ecosystem-platform-aws-developer-portal-xbkqq5.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-aws-marketplace-yh54tc
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/aws-marketplace-yh54tc/candidates/dea-ecosystem-platform-aws-marketplace-yh54tc.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/aws-marketplace-yh54tc/dea-ecosystem-platform-aws-marketplace-yh54tc.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-aws-open-data-registry-fpnqsv
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/aws-open-data-registry-fpnqsv/candidates/dea-ecosystem-platform-aws-open-data-registry-fpnqsv.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/aws-open-data-registry-fpnqsv/dea-ecosystem-platform-aws-open-data-registry-fpnqsv.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-aws-partner-network-vf9epm
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/aws-partner-network-vf9epm/candidates/dea-ecosystem-platform-aws-partner-network-vf9epm.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/aws-partner-network-vf9epm/dea-ecosystem-platform-aws-partner-network-vf9epm.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-azure-developer-portal-7efhdu
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/azure-developer-portal-7efhdu/candidates/dea-ecosystem-platform-azure-developer-portal-7efhdu.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/azure-developer-portal-7efhdu/dea-ecosystem-platform-azure-developer-portal-7efhdu.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-azure-marketplace-fzp9vz
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/a/azure-marketplace-fzp9vz/candidates/dea-ecosystem-platform-azure-marketplace-fzp9vz.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/a/azure-marketplace-fzp9vz/dea-ecosystem-platform-azure-marketplace-fzp9vz.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-bigcommerce-marketplace-g69v7f
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/b/bigcommerce-marketplace-g69v7f/candidates/dea-ecosystem-platform-bigcommerce-marketplace-g69v7f.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/b/bigcommerce-marketplace-g69v7f/dea-ecosystem-platform-bigcommerce-marketplace-g69v7f.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-canonical-snap-store-j3sc9j
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/c/canonical-snap-store-j3sc9j/candidates/dea-ecosystem-platform-canonical-snap-store-j3sc9j.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/c/canonical-snap-store-j3sc9j/dea-ecosystem-platform-canonical-snap-store-j3sc9j.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-canva-apps-yy3q3r
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/c/canva-apps-yy3q3r/candidates/dea-ecosystem-platform-canva-apps-yy3q3r.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/c/canva-apps-yy3q3r/dea-ecosystem-platform-canva-apps-yy3q3r.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-cargo-crates-io-yrxtvv
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/c/cargo-crates-io-yrxtvv/candidates/dea-ecosystem-platform-cargo-crates-io-yrxtvv.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/c/cargo-crates-io-yrxtvv/dea-ecosystem-platform-cargo-crates-io-yrxtvv.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-chrome-web-store-4tnm23
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/c/chrome-web-store-4tnm23/candidates/dea-ecosystem-platform-chrome-web-store-4tnm23.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/c/chrome-web-store-4tnm23/dea-ecosystem-platform-chrome-web-store-4tnm23.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-ckan-registry-nrk4uc
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/c/ckan-registry-nrk4uc/candidates/dea-ecosystem-platform-ckan-registry-nrk4uc.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/c/ckan-registry-nrk4uc/dea-ecosystem-platform-ckan-registry-nrk4uc.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-creative-cloud-marketplace-pe8vwg
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/c/creative-cloud-marketplace-pe8vwg/candidates/dea-ecosystem-platform-creative-cloud-marketplace-pe8vwg.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/c/creative-cloud-marketplace-pe8vwg/dea-ecosystem-platform-creative-cloud-marketplace-pe8vwg.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-data-europa-eu-jjpdfa
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/d/data-europa-eu-jjpdfa/candidates/dea-ecosystem-platform-data-europa-eu-jjpdfa.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/d/data-europa-eu-jjpdfa/dea-ecosystem-platform-data-europa-eu-jjpdfa.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-data-gov-5ka78j
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/d/data-gov-5ka78j/candidates/dea-ecosystem-platform-data-gov-5ka78j.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/d/data-gov-5ka78j/dea-ecosystem-platform-data-gov-5ka78j.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-docker-hub-wzv9wt
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/d/docker-hub-wzv9wt/candidates/dea-ecosystem-platform-docker-hub-wzv9wt.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/d/docker-hub-wzv9wt/dea-ecosystem-platform-docker-hub-wzv9wt.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-docusign-partner-program-f5mu9r
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/d/docusign-partner-program-f5mu9r/candidates/dea-ecosystem-platform-docusign-partner-program-f5mu9r.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/d/docusign-partner-program-f5mu9r/dea-ecosystem-platform-docusign-partner-program-f5mu9r.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-drupal-modules-9gy5dv
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/d/drupal-modules-9gy5dv/candidates/dea-ecosystem-platform-drupal-modules-9gy5dv.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/d/drupal-modules-9gy5dv/dea-ecosystem-platform-drupal-modules-9gy5dv.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-epic-games-store-cugrhr
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/e/epic-games-store-cugrhr/candidates/dea-ecosystem-platform-epic-games-store-cugrhr.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/e/epic-games-store-cugrhr/dea-ecosystem-platform-epic-games-store-cugrhr.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-eurostat-vbst2e
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/e/eurostat-vbst2e/candidates/dea-ecosystem-platform-eurostat-vbst2e.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/e/eurostat-vbst2e/dea-ecosystem-platform-eurostat-vbst2e.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-f-droid-fv4nac
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/f/f-droid-fv4nac/candidates/dea-ecosystem-platform-f-droid-fv4nac.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/f/f-droid-fv4nac/dea-ecosystem-platform-f-droid-fv4nac.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-fao-data-whevff
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/f/fao-data-whevff/candidates/dea-ecosystem-platform-fao-data-whevff.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/f/fao-data-whevff/dea-ecosystem-platform-fao-data-whevff.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-figma-community-3cdkkm
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/f/figma-community-3cdkkm/candidates/dea-ecosystem-platform-figma-community-3cdkkm.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/f/figma-community-3cdkkm/dea-ecosystem-platform-figma-community-3cdkkm.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-firefox-add-ons-svpedz
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/f/firefox-add-ons-svpedz/candidates/dea-ecosystem-platform-firefox-add-ons-svpedz.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/f/firefox-add-ons-svpedz/dea-ecosystem-platform-firefox-add-ons-svpedz.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-galaxy-store-v4j4qh
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/g/galaxy-store-v4j4qh/candidates/dea-ecosystem-platform-galaxy-store-v4j4qh.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/g/galaxy-store-v4j4qh/dea-ecosystem-platform-galaxy-store-v4j4qh.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-go-module-proxy-xx4zvc
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/g/go-module-proxy-xx4zvc/candidates/dea-ecosystem-platform-go-module-proxy-xx4zvc.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/g/go-module-proxy-xx4zvc/dea-ecosystem-platform-go-module-proxy-xx4zvc.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-google-cloud-developer-portal-2wpjvp
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/g/google-cloud-developer-portal-2wpjvp/candidates/dea-ecosystem-platform-google-cloud-developer-portal-2wpjvp.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/g/google-cloud-developer-portal-2wpjvp/dea-ecosystem-platform-google-cloud-developer-portal-2wpjvp.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-google-cloud-marketplace-rrfv2r
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/g/google-cloud-marketplace-rrfv2r/candidates/dea-ecosystem-platform-google-cloud-marketplace-rrfv2r.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/g/google-cloud-marketplace-rrfv2r/dea-ecosystem-platform-google-cloud-marketplace-rrfv2r.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-google-cloud-partner-program-g2zauv
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/g/google-cloud-partner-program-g2zauv/candidates/dea-ecosystem-platform-google-cloud-partner-program-g2zauv.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/g/google-cloud-partner-program-g2zauv/dea-ecosystem-platform-google-cloud-partner-program-g2zauv.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-google-play-console-pcf2nt
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/g/google-play-console-pcf2nt/candidates/dea-ecosystem-platform-google-play-console-pcf2nt.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/g/google-play-console-pcf2nt/dea-ecosystem-platform-google-play-console-pcf2nt.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-google-play-k47snr
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/g/google-play-k47snr/candidates/dea-ecosystem-platform-google-play-k47snr.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/g/google-play-k47snr/dea-ecosystem-platform-google-play-k47snr.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-google-public-data-explorer-t2vjer
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/g/google-public-data-explorer-t2vjer/candidates/dea-ecosystem-platform-google-public-data-explorer-t2vjer.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/g/google-public-data-explorer-t2vjer/dea-ecosystem-platform-google-public-data-explorer-t2vjer.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-helm-artifact-hub-jgdtca
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/h/helm-artifact-hub-jgdtca/candidates/dea-ecosystem-platform-helm-artifact-hub-jgdtca.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/h/helm-artifact-hub-jgdtca/dea-ecosystem-platform-helm-artifact-hub-jgdtca.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-homebrew-zcx22q
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/h/homebrew-zcx22q/candidates/dea-ecosystem-platform-homebrew-zcx22q.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/h/homebrew-zcx22q/dea-ecosystem-platform-homebrew-zcx22q.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-huawei-appgallery-4fuyn7
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/h/huawei-appgallery-4fuyn7/candidates/dea-ecosystem-platform-huawei-appgallery-4fuyn7.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/h/huawei-appgallery-4fuyn7/dea-ecosystem-platform-huawei-appgallery-4fuyn7.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-hubspot-app-marketplace-vgpp86
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/h/hubspot-app-marketplace-vgpp86/candidates/dea-ecosystem-platform-hubspot-app-marketplace-vgpp86.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/h/hubspot-app-marketplace-vgpp86/dea-ecosystem-platform-hubspot-app-marketplace-vgpp86.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-hubspot-partner-program-xk47b7
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/h/hubspot-partner-program-xk47b7/candidates/dea-ecosystem-platform-hubspot-partner-program-xk47b7.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/h/hubspot-partner-program-xk47b7/dea-ecosystem-platform-hubspot-partner-program-xk47b7.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-hugging-face-hub-y7eswp
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/h/hugging-face-hub-y7eswp/candidates/dea-ecosystem-platform-hugging-face-hub-y7eswp.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/h/hugging-face-hub-y7eswp/dea-ecosystem-platform-hugging-face-hub-y7eswp.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-intercom-partner-program-x2pwbc
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/i/intercom-partner-program-x2pwbc/candidates/dea-ecosystem-platform-intercom-partner-program-x2pwbc.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/i/intercom-partner-program-x2pwbc/dea-ecosystem-platform-intercom-partner-program-x2pwbc.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-jetbrains-marketplace-8sww5m
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/j/jetbrains-marketplace-8sww5m/candidates/dea-ecosystem-platform-jetbrains-marketplace-8sww5m.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/j/jetbrains-marketplace-8sww5m/dea-ecosystem-platform-jetbrains-marketplace-8sww5m.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-kaggle-datasets-65u7cj
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/k/kaggle-datasets-65u7cj/candidates/dea-ecosystem-platform-kaggle-datasets-65u7cj.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/k/kaggle-datasets-65u7cj/dea-ecosystem-platform-kaggle-datasets-65u7cj.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-magnolia-marketplace-q8sts4
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/m/magnolia-marketplace-q8sts4/candidates/dea-ecosystem-platform-magnolia-marketplace-q8sts4.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/m/magnolia-marketplace-q8sts4/dea-ecosystem-platform-magnolia-marketplace-q8sts4.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-maven-central-t5w4ne
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/m/maven-central-t5w4ne/candidates/dea-ecosystem-platform-maven-central-t5w4ne.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/m/maven-central-t5w4ne/dea-ecosystem-platform-maven-central-t5w4ne.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-meta-quest-store-2qujap
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/m/meta-quest-store-2qujap/candidates/dea-ecosystem-platform-meta-quest-store-2qujap.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/m/meta-quest-store-2qujap/dea-ecosystem-platform-meta-quest-store-2qujap.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-microsoft-ai-cloud-partner-program-8fs8fn
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/m/microsoft-ai-cloud-partner-program-8fs8fn/candidates/dea-ecosystem-platform-microsoft-ai-cloud-partner-program-8fs8fn.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/m/microsoft-ai-cloud-partner-program-8fs8fn/dea-ecosystem-platform-microsoft-ai-cloud-partner-program-8fs8fn.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-microsoft-partner-center-k3z997
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/m/microsoft-partner-center-k3z997/candidates/dea-ecosystem-platform-microsoft-partner-center-k3z997.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/m/microsoft-partner-center-k3z997/dea-ecosystem-platform-microsoft-partner-center-k3z997.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-microsoft-store-ufznhx
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/m/microsoft-store-ufznhx/candidates/dea-ecosystem-platform-microsoft-store-ufznhx.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/m/microsoft-store-ufznhx/dea-ecosystem-platform-microsoft-store-ufznhx.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-microsoft-teams-store-quecjh
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/m/microsoft-teams-store-quecjh/candidates/dea-ecosystem-platform-microsoft-teams-store-quecjh.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/m/microsoft-teams-store-quecjh/dea-ecosystem-platform-microsoft-teams-store-quecjh.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-miro-marketplace-msewf8
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/m/miro-marketplace-msewf8/candidates/dea-ecosystem-platform-miro-marketplace-msewf8.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/m/miro-marketplace-msewf8/dea-ecosystem-platform-miro-marketplace-msewf8.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-nasa-open-data-portal-pvpy6e
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/n/nasa-open-data-portal-pvpy6e/candidates/dea-ecosystem-platform-nasa-open-data-portal-pvpy6e.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/n/nasa-open-data-portal-pvpy6e/dea-ecosystem-platform-nasa-open-data-portal-pvpy6e.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-noaa-data-se657q
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/n/noaa-data-se657q/candidates/dea-ecosystem-platform-noaa-data-se657q.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/n/noaa-data-se657q/dea-ecosystem-platform-noaa-data-se657q.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-notion-integrations-qxwuhp
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/n/notion-integrations-qxwuhp/candidates/dea-ecosystem-platform-notion-integrations-qxwuhp.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/n/notion-integrations-qxwuhp/dea-ecosystem-platform-notion-integrations-qxwuhp.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-npm-registry-mcnkps
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/n/npm-registry-mcnkps/candidates/dea-ecosystem-platform-npm-registry-mcnkps.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/n/npm-registry-mcnkps/dea-ecosystem-platform-npm-registry-mcnkps.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-nuget-gallery-ewqfm9
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/n/nuget-gallery-ewqfm9/candidates/dea-ecosystem-platform-nuget-gallery-ewqfm9.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/n/nuget-gallery-ewqfm9/dea-ecosystem-platform-nuget-gallery-ewqfm9.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-odoo-apps-8bdrgn
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/o/odoo-apps-8bdrgn/candidates/dea-ecosystem-platform-odoo-apps-8bdrgn.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/o/odoo-apps-8bdrgn/dea-ecosystem-platform-odoo-apps-8bdrgn.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-oecd-data-explorer-a3cgcz
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/o/oecd-data-explorer-a3cgcz/candidates/dea-ecosystem-platform-oecd-data-explorer-a3cgcz.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/o/oecd-data-explorer-a3cgcz/dea-ecosystem-platform-oecd-data-explorer-a3cgcz.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-opendatasoft-network-yn5e23
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/o/opendatasoft-network-yn5e23/candidates/dea-ecosystem-platform-opendatasoft-network-yn5e23.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/o/opendatasoft-network-yn5e23/dea-ecosystem-platform-opendatasoft-network-yn5e23.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-oracle-cloud-marketplace-fdvb2t
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/o/oracle-cloud-marketplace-fdvb2t/candidates/dea-ecosystem-platform-oracle-cloud-marketplace-fdvb2t.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/o/oracle-cloud-marketplace-fdvb2t/dea-ecosystem-platform-oracle-cloud-marketplace-fdvb2t.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-our-world-in-data-7ghyds
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/o/our-world-in-data-7ghyds/candidates/dea-ecosystem-platform-our-world-in-data-7ghyds.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/o/our-world-in-data-7ghyds/dea-ecosystem-platform-our-world-in-data-7ghyds.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-packagist-72hb3x
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/p/packagist-72hb3x/candidates/dea-ecosystem-platform-packagist-72hb3x.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/p/packagist-72hb3x/dea-ecosystem-platform-packagist-72hb3x.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-paypal-partner-program-5djek9
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/p/paypal-partner-program-5djek9/candidates/dea-ecosystem-platform-paypal-partner-program-5djek9.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/p/paypal-partner-program-5djek9/dea-ecosystem-platform-paypal-partner-program-5djek9.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-pypi-jydyjq
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/p/pypi-jydyjq/candidates/dea-ecosystem-platform-pypi-jydyjq.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/p/pypi-jydyjq/dea-ecosystem-platform-pypi-jydyjq.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-red-hat-ecosystem-catalog-cn6rkq
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/r/red-hat-ecosystem-catalog-cn6rkq/candidates/dea-ecosystem-platform-red-hat-ecosystem-catalog-cn6rkq.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/r/red-hat-ecosystem-catalog-cn6rkq/dea-ecosystem-platform-red-hat-ecosystem-catalog-cn6rkq.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-rubygems-cm6j6f
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/r/rubygems-cm6j6f/candidates/dea-ecosystem-platform-rubygems-cm6j6f.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/r/rubygems-cm6j6f/dea-ecosystem-platform-rubygems-cm6j6f.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-salesforce-appexchange-62nj4t
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/salesforce-appexchange-62nj4t/candidates/dea-ecosystem-platform-salesforce-appexchange-62nj4t.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/salesforce-appexchange-62nj4t/dea-ecosystem-platform-salesforce-appexchange-62nj4t.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-salesforce-developers-e29hbw
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/salesforce-developers-e29hbw/candidates/dea-ecosystem-platform-salesforce-developers-e29hbw.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/salesforce-developers-e29hbw/dea-ecosystem-platform-salesforce-developers-e29hbw.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-salesforce-partner-program-qskqt4
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/salesforce-partner-program-qskqt4/candidates/dea-ecosystem-platform-salesforce-partner-program-qskqt4.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/salesforce-partner-program-qskqt4/dea-ecosystem-platform-salesforce-partner-program-qskqt4.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-sap-store-d7etdq
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/sap-store-d7etdq/candidates/dea-ecosystem-platform-sap-store-d7etdq.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/sap-store-d7etdq/dea-ecosystem-platform-sap-store-d7etdq.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-servicenow-store-aae52d
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/servicenow-store-aae52d/candidates/dea-ecosystem-platform-servicenow-store-aae52d.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/servicenow-store-aae52d/dea-ecosystem-platform-servicenow-store-aae52d.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-setapp-j8vzcb
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/setapp-j8vzcb/candidates/dea-ecosystem-platform-setapp-j8vzcb.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/setapp-j8vzcb/dea-ecosystem-platform-setapp-j8vzcb.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-shopify-app-store-9k78r2
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/shopify-app-store-9k78r2/candidates/dea-ecosystem-platform-shopify-app-store-9k78r2.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/shopify-app-store-9k78r2/dea-ecosystem-platform-shopify-app-store-9k78r2.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-shopify-partner-directory-spj6jy
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/shopify-partner-directory-spj6jy/candidates/dea-ecosystem-platform-shopify-partner-directory-spj6jy.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/shopify-partner-directory-spj6jy/dea-ecosystem-platform-shopify-partner-directory-spj6jy.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-shopify-partners-g4n98k
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/shopify-partners-g4n98k/candidates/dea-ecosystem-platform-shopify-partners-g4n98k.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/shopify-partners-g4n98k/dea-ecosystem-platform-shopify-partners-g4n98k.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-shopify-themes-2htdmf
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/shopify-themes-2htdmf/candidates/dea-ecosystem-platform-shopify-themes-2htdmf.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/shopify-themes-2htdmf/dea-ecosystem-platform-shopify-themes-2htdmf.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-slack-app-marketplace-xkcb9u
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/slack-app-marketplace-xkcb9u/candidates/dea-ecosystem-platform-slack-app-marketplace-xkcb9u.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/slack-app-marketplace-xkcb9u/dea-ecosystem-platform-slack-app-marketplace-xkcb9u.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-squarespace-extensions-medkmw
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/squarespace-extensions-medkmw/candidates/dea-ecosystem-platform-squarespace-extensions-medkmw.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/squarespace-extensions-medkmw/dea-ecosystem-platform-squarespace-extensions-medkmw.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-steam-bvqyg4
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/steam-bvqyg4/candidates/dea-ecosystem-platform-steam-bvqyg4.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/steam-bvqyg4/dea-ecosystem-platform-steam-bvqyg4.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-stripe-partners-program-y6uxd7
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/s/stripe-partners-program-y6uxd7/candidates/dea-ecosystem-platform-stripe-partners-program-y6uxd7.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/s/stripe-partners-program-y6uxd7/dea-ecosystem-platform-stripe-partners-program-y6uxd7.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-terraform-registry-xwgkn7
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/t/terraform-registry-xwgkn7/candidates/dea-ecosystem-platform-terraform-registry-xwgkn7.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/t/terraform-registry-xwgkn7/dea-ecosystem-platform-terraform-registry-xwgkn7.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-todoist-integrations-ywxbes
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/t/todoist-integrations-ywxbes/candidates/dea-ecosystem-platform-todoist-integrations-ywxbes.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/t/todoist-integrations-ywxbes/dea-ecosystem-platform-todoist-integrations-ywxbes.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-twilio-partner-program-hn5tft
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/t/twilio-partner-program-hn5tft/candidates/dea-ecosystem-platform-twilio-partner-program-hn5tft.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/t/twilio-partner-program-hn5tft/dea-ecosystem-platform-twilio-partner-program-hn5tft.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-un-open-data-4pd8dh
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/u/un-open-data-4pd8dh/candidates/dea-ecosystem-platform-un-open-data-4pd8dh.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/u/un-open-data-4pd8dh/dea-ecosystem-platform-un-open-data-4pd8dh.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-unity-asset-store-wbrjg5
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/u/unity-asset-store-wbrjg5/candidates/dea-ecosystem-platform-unity-asset-store-wbrjg5.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/u/unity-asset-store-wbrjg5/dea-ecosystem-platform-unity-asset-store-wbrjg5.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-unreal-marketplace-zuytvq
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/u/unreal-marketplace-zuytvq/candidates/dea-ecosystem-platform-unreal-marketplace-zuytvq.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/u/unreal-marketplace-zuytvq/dea-ecosystem-platform-unreal-marketplace-zuytvq.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-vs-code-marketplace-7gvbsm
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/v/vs-code-marketplace-7gvbsm/candidates/dea-ecosystem-platform-vs-code-marketplace-7gvbsm.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/v/vs-code-marketplace-7gvbsm/dea-ecosystem-platform-vs-code-marketplace-7gvbsm.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-webflow-apps-agt93p
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/w/webflow-apps-agt93p/candidates/dea-ecosystem-platform-webflow-apps-agt93p.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/w/webflow-apps-agt93p/dea-ecosystem-platform-webflow-apps-agt93p.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-who-global-health-observatory-6ncmpp
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/w/who-global-health-observatory-6ncmpp/candidates/dea-ecosystem-platform-who-global-health-observatory-6ncmpp.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/w/who-global-health-observatory-6ncmpp/dea-ecosystem-platform-who-global-health-observatory-6ncmpp.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-wix-app-market-z4c5nm
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/w/wix-app-market-z4c5nm/candidates/dea-ecosystem-platform-wix-app-market-z4c5nm.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/w/wix-app-market-z4c5nm/dea-ecosystem-platform-wix-app-market-z4c5nm.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-woocommerce-marketplace-xtza5v
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/w/woocommerce-marketplace-xtza5v/candidates/dea-ecosystem-platform-woocommerce-marketplace-xtza5v.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/w/woocommerce-marketplace-xtza5v/dea-ecosystem-platform-woocommerce-marketplace-xtza5v.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-wordpress-plugin-directory-nahnsg
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/w/wordpress-plugin-directory-nahnsg/candidates/dea-ecosystem-platform-wordpress-plugin-directory-nahnsg.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/w/wordpress-plugin-directory-nahnsg/dea-ecosystem-platform-wordpress-plugin-directory-nahnsg.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-workday-marketplace-3gkvkf
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/w/workday-marketplace-3gkvkf/candidates/dea-ecosystem-platform-workday-marketplace-3gkvkf.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/w/workday-marketplace-3gkvkf/dea-ecosystem-platform-workday-marketplace-3gkvkf.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-world-bank-open-data-qz6nxh
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/w/world-bank-open-data-qz6nxh/candidates/dea-ecosystem-platform-world-bank-open-data-qz6nxh.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/w/world-bank-open-data-qz6nxh/dea-ecosystem-platform-world-bank-open-data-qz6nxh.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-zapier-app-directory-vanbex
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/z/zapier-app-directory-vanbex/candidates/dea-ecosystem-platform-zapier-app-directory-vanbex.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/z/zapier-app-directory-vanbex/dea-ecosystem-platform-zapier-app-directory-vanbex.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-zendesk-marketplace-yrdv7m
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/z/zendesk-marketplace-yrdv7m/candidates/dea-ecosystem-platform-zendesk-marketplace-yrdv7m.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/z/zendesk-marketplace-yrdv7m/dea-ecosystem-platform-zendesk-marketplace-yrdv7m.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
-  - candidate_count: 2
-    canonical_count: 0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
+  - candidate_count: 0
+    canonical_count: 1
     id: dea:ecosystem-platform-zoom-partner-program-xzkhb3
     last_modified: '2026-11-15'
-    lifecycle_status: candidate
-    path: entities/v1-alpha/z/zoom-partner-program-xzkhb3/candidates/dea-ecosystem-platform-zoom-partner-program-xzkhb3.yaml
+    lifecycle_status: active
+    path: entities/v1-alpha/z/zoom-partner-program-xzkhb3/dea-ecosystem-platform-zoom-partner-program-xzkhb3.yaml
     research_count: 0
     retired_count: 0
-    state: candidate
-    type: unknown
-    version: 0.0.0
+    state: canonical
+    type: EcosystemPlatform
+    version: 0.1.0
   id: dea:catalog-ecosystem-platforms
   metamodel_version: 1.0.0
   name: Ecosystem Platform
@@ -1158,312 +1158,312 @@ catalog:
   research_registers:
   - entity_id: dea:ecosystem-platform-1password-integrations-bpczaf
     files: []
-    path: entities/v1-alpha/0-9/1password-integrations-bpczaf/candidates/research/
+    path: entities/v1-alpha/0-9/1password-integrations-bpczaf/research/
   - entity_id: dea:ecosystem-platform-adyen-partner-program-res6xs
     files: []
-    path: entities/v1-alpha/a/adyen-partner-program-res6xs/candidates/research/
+    path: entities/v1-alpha/a/adyen-partner-program-res6xs/research/
   - entity_id: dea:ecosystem-platform-amazon-appstore-5jhhce
     files: []
-    path: entities/v1-alpha/a/amazon-appstore-5jhhce/candidates/research/
+    path: entities/v1-alpha/a/amazon-appstore-5jhhce/research/
   - entity_id: dea:ecosystem-platform-ansible-galaxy-qz5kx6
     files: []
-    path: entities/v1-alpha/a/ansible-galaxy-qz5kx6/candidates/research/
+    path: entities/v1-alpha/a/ansible-galaxy-qz5kx6/research/
   - entity_id: dea:ecosystem-platform-apple-app-store-cc36ng
     files: []
-    path: entities/v1-alpha/a/apple-app-store-cc36ng/candidates/research/
+    path: entities/v1-alpha/a/apple-app-store-cc36ng/research/
   - entity_id: dea:ecosystem-platform-apple-developer-program-jgkje2
     files: []
-    path: entities/v1-alpha/a/apple-developer-program-jgkje2/candidates/research/
+    path: entities/v1-alpha/a/apple-developer-program-jgkje2/research/
   - entity_id: dea:ecosystem-platform-asana-apps-7v9q6p
     files: []
-    path: entities/v1-alpha/a/asana-apps-7v9q6p/candidates/research/
+    path: entities/v1-alpha/a/asana-apps-7v9q6p/research/
   - entity_id: dea:ecosystem-platform-atlassian-marketplace-cmbdsg
     files: []
-    path: entities/v1-alpha/a/atlassian-marketplace-cmbdsg/candidates/research/
+    path: entities/v1-alpha/a/atlassian-marketplace-cmbdsg/research/
   - entity_id: dea:ecosystem-platform-aws-developer-portal-xbkqq5
     files: []
-    path: entities/v1-alpha/a/aws-developer-portal-xbkqq5/candidates/research/
+    path: entities/v1-alpha/a/aws-developer-portal-xbkqq5/research/
   - entity_id: dea:ecosystem-platform-aws-marketplace-yh54tc
     files: []
-    path: entities/v1-alpha/a/aws-marketplace-yh54tc/candidates/research/
+    path: entities/v1-alpha/a/aws-marketplace-yh54tc/research/
   - entity_id: dea:ecosystem-platform-aws-open-data-registry-fpnqsv
     files: []
-    path: entities/v1-alpha/a/aws-open-data-registry-fpnqsv/candidates/research/
+    path: entities/v1-alpha/a/aws-open-data-registry-fpnqsv/research/
   - entity_id: dea:ecosystem-platform-aws-partner-network-vf9epm
     files: []
-    path: entities/v1-alpha/a/aws-partner-network-vf9epm/candidates/research/
+    path: entities/v1-alpha/a/aws-partner-network-vf9epm/research/
   - entity_id: dea:ecosystem-platform-azure-developer-portal-7efhdu
     files: []
-    path: entities/v1-alpha/a/azure-developer-portal-7efhdu/candidates/research/
+    path: entities/v1-alpha/a/azure-developer-portal-7efhdu/research/
   - entity_id: dea:ecosystem-platform-azure-marketplace-fzp9vz
     files: []
-    path: entities/v1-alpha/a/azure-marketplace-fzp9vz/candidates/research/
+    path: entities/v1-alpha/a/azure-marketplace-fzp9vz/research/
   - entity_id: dea:ecosystem-platform-bigcommerce-marketplace-g69v7f
     files: []
-    path: entities/v1-alpha/b/bigcommerce-marketplace-g69v7f/candidates/research/
+    path: entities/v1-alpha/b/bigcommerce-marketplace-g69v7f/research/
   - entity_id: dea:ecosystem-platform-canonical-snap-store-j3sc9j
     files: []
-    path: entities/v1-alpha/c/canonical-snap-store-j3sc9j/candidates/research/
+    path: entities/v1-alpha/c/canonical-snap-store-j3sc9j/research/
   - entity_id: dea:ecosystem-platform-canva-apps-yy3q3r
     files: []
-    path: entities/v1-alpha/c/canva-apps-yy3q3r/candidates/research/
+    path: entities/v1-alpha/c/canva-apps-yy3q3r/research/
   - entity_id: dea:ecosystem-platform-cargo-crates-io-yrxtvv
     files: []
-    path: entities/v1-alpha/c/cargo-crates-io-yrxtvv/candidates/research/
+    path: entities/v1-alpha/c/cargo-crates-io-yrxtvv/research/
   - entity_id: dea:ecosystem-platform-chrome-web-store-4tnm23
     files: []
-    path: entities/v1-alpha/c/chrome-web-store-4tnm23/candidates/research/
+    path: entities/v1-alpha/c/chrome-web-store-4tnm23/research/
   - entity_id: dea:ecosystem-platform-ckan-registry-nrk4uc
     files: []
-    path: entities/v1-alpha/c/ckan-registry-nrk4uc/candidates/research/
+    path: entities/v1-alpha/c/ckan-registry-nrk4uc/research/
   - entity_id: dea:ecosystem-platform-creative-cloud-marketplace-pe8vwg
     files: []
-    path: entities/v1-alpha/c/creative-cloud-marketplace-pe8vwg/candidates/research/
+    path: entities/v1-alpha/c/creative-cloud-marketplace-pe8vwg/research/
   - entity_id: dea:ecosystem-platform-data-europa-eu-jjpdfa
     files: []
-    path: entities/v1-alpha/d/data-europa-eu-jjpdfa/candidates/research/
+    path: entities/v1-alpha/d/data-europa-eu-jjpdfa/research/
   - entity_id: dea:ecosystem-platform-data-gov-5ka78j
     files: []
-    path: entities/v1-alpha/d/data-gov-5ka78j/candidates/research/
+    path: entities/v1-alpha/d/data-gov-5ka78j/research/
   - entity_id: dea:ecosystem-platform-docker-hub-wzv9wt
     files: []
-    path: entities/v1-alpha/d/docker-hub-wzv9wt/candidates/research/
+    path: entities/v1-alpha/d/docker-hub-wzv9wt/research/
   - entity_id: dea:ecosystem-platform-docusign-partner-program-f5mu9r
     files: []
-    path: entities/v1-alpha/d/docusign-partner-program-f5mu9r/candidates/research/
+    path: entities/v1-alpha/d/docusign-partner-program-f5mu9r/research/
   - entity_id: dea:ecosystem-platform-drupal-modules-9gy5dv
     files: []
-    path: entities/v1-alpha/d/drupal-modules-9gy5dv/candidates/research/
+    path: entities/v1-alpha/d/drupal-modules-9gy5dv/research/
   - entity_id: dea:ecosystem-platform-epic-games-store-cugrhr
     files: []
-    path: entities/v1-alpha/e/epic-games-store-cugrhr/candidates/research/
+    path: entities/v1-alpha/e/epic-games-store-cugrhr/research/
   - entity_id: dea:ecosystem-platform-eurostat-vbst2e
     files: []
-    path: entities/v1-alpha/e/eurostat-vbst2e/candidates/research/
+    path: entities/v1-alpha/e/eurostat-vbst2e/research/
   - entity_id: dea:ecosystem-platform-f-droid-fv4nac
     files: []
-    path: entities/v1-alpha/f/f-droid-fv4nac/candidates/research/
+    path: entities/v1-alpha/f/f-droid-fv4nac/research/
   - entity_id: dea:ecosystem-platform-fao-data-whevff
     files: []
-    path: entities/v1-alpha/f/fao-data-whevff/candidates/research/
+    path: entities/v1-alpha/f/fao-data-whevff/research/
   - entity_id: dea:ecosystem-platform-figma-community-3cdkkm
     files: []
-    path: entities/v1-alpha/f/figma-community-3cdkkm/candidates/research/
+    path: entities/v1-alpha/f/figma-community-3cdkkm/research/
   - entity_id: dea:ecosystem-platform-firefox-add-ons-svpedz
     files: []
-    path: entities/v1-alpha/f/firefox-add-ons-svpedz/candidates/research/
+    path: entities/v1-alpha/f/firefox-add-ons-svpedz/research/
   - entity_id: dea:ecosystem-platform-galaxy-store-v4j4qh
     files: []
-    path: entities/v1-alpha/g/galaxy-store-v4j4qh/candidates/research/
+    path: entities/v1-alpha/g/galaxy-store-v4j4qh/research/
   - entity_id: dea:ecosystem-platform-go-module-proxy-xx4zvc
     files: []
-    path: entities/v1-alpha/g/go-module-proxy-xx4zvc/candidates/research/
+    path: entities/v1-alpha/g/go-module-proxy-xx4zvc/research/
   - entity_id: dea:ecosystem-platform-google-cloud-developer-portal-2wpjvp
     files: []
-    path: entities/v1-alpha/g/google-cloud-developer-portal-2wpjvp/candidates/research/
+    path: entities/v1-alpha/g/google-cloud-developer-portal-2wpjvp/research/
   - entity_id: dea:ecosystem-platform-google-cloud-marketplace-rrfv2r
     files: []
-    path: entities/v1-alpha/g/google-cloud-marketplace-rrfv2r/candidates/research/
+    path: entities/v1-alpha/g/google-cloud-marketplace-rrfv2r/research/
   - entity_id: dea:ecosystem-platform-google-cloud-partner-program-g2zauv
     files: []
-    path: entities/v1-alpha/g/google-cloud-partner-program-g2zauv/candidates/research/
+    path: entities/v1-alpha/g/google-cloud-partner-program-g2zauv/research/
   - entity_id: dea:ecosystem-platform-google-play-console-pcf2nt
     files: []
-    path: entities/v1-alpha/g/google-play-console-pcf2nt/candidates/research/
+    path: entities/v1-alpha/g/google-play-console-pcf2nt/research/
   - entity_id: dea:ecosystem-platform-google-play-k47snr
     files: []
-    path: entities/v1-alpha/g/google-play-k47snr/candidates/research/
+    path: entities/v1-alpha/g/google-play-k47snr/research/
   - entity_id: dea:ecosystem-platform-google-public-data-explorer-t2vjer
     files: []
-    path: entities/v1-alpha/g/google-public-data-explorer-t2vjer/candidates/research/
+    path: entities/v1-alpha/g/google-public-data-explorer-t2vjer/research/
   - entity_id: dea:ecosystem-platform-helm-artifact-hub-jgdtca
     files: []
-    path: entities/v1-alpha/h/helm-artifact-hub-jgdtca/candidates/research/
+    path: entities/v1-alpha/h/helm-artifact-hub-jgdtca/research/
   - entity_id: dea:ecosystem-platform-homebrew-zcx22q
     files: []
-    path: entities/v1-alpha/h/homebrew-zcx22q/candidates/research/
+    path: entities/v1-alpha/h/homebrew-zcx22q/research/
   - entity_id: dea:ecosystem-platform-huawei-appgallery-4fuyn7
     files: []
-    path: entities/v1-alpha/h/huawei-appgallery-4fuyn7/candidates/research/
+    path: entities/v1-alpha/h/huawei-appgallery-4fuyn7/research/
   - entity_id: dea:ecosystem-platform-hubspot-app-marketplace-vgpp86
     files: []
-    path: entities/v1-alpha/h/hubspot-app-marketplace-vgpp86/candidates/research/
+    path: entities/v1-alpha/h/hubspot-app-marketplace-vgpp86/research/
   - entity_id: dea:ecosystem-platform-hubspot-partner-program-xk47b7
     files: []
-    path: entities/v1-alpha/h/hubspot-partner-program-xk47b7/candidates/research/
+    path: entities/v1-alpha/h/hubspot-partner-program-xk47b7/research/
   - entity_id: dea:ecosystem-platform-hugging-face-hub-y7eswp
     files: []
-    path: entities/v1-alpha/h/hugging-face-hub-y7eswp/candidates/research/
+    path: entities/v1-alpha/h/hugging-face-hub-y7eswp/research/
   - entity_id: dea:ecosystem-platform-intercom-partner-program-x2pwbc
     files: []
-    path: entities/v1-alpha/i/intercom-partner-program-x2pwbc/candidates/research/
+    path: entities/v1-alpha/i/intercom-partner-program-x2pwbc/research/
   - entity_id: dea:ecosystem-platform-jetbrains-marketplace-8sww5m
     files: []
-    path: entities/v1-alpha/j/jetbrains-marketplace-8sww5m/candidates/research/
+    path: entities/v1-alpha/j/jetbrains-marketplace-8sww5m/research/
   - entity_id: dea:ecosystem-platform-kaggle-datasets-65u7cj
     files: []
-    path: entities/v1-alpha/k/kaggle-datasets-65u7cj/candidates/research/
+    path: entities/v1-alpha/k/kaggle-datasets-65u7cj/research/
   - entity_id: dea:ecosystem-platform-magnolia-marketplace-q8sts4
     files: []
-    path: entities/v1-alpha/m/magnolia-marketplace-q8sts4/candidates/research/
+    path: entities/v1-alpha/m/magnolia-marketplace-q8sts4/research/
   - entity_id: dea:ecosystem-platform-maven-central-t5w4ne
     files: []
-    path: entities/v1-alpha/m/maven-central-t5w4ne/candidates/research/
+    path: entities/v1-alpha/m/maven-central-t5w4ne/research/
   - entity_id: dea:ecosystem-platform-meta-quest-store-2qujap
     files: []
-    path: entities/v1-alpha/m/meta-quest-store-2qujap/candidates/research/
+    path: entities/v1-alpha/m/meta-quest-store-2qujap/research/
   - entity_id: dea:ecosystem-platform-microsoft-ai-cloud-partner-program-8fs8fn
     files: []
-    path: entities/v1-alpha/m/microsoft-ai-cloud-partner-program-8fs8fn/candidates/research/
+    path: entities/v1-alpha/m/microsoft-ai-cloud-partner-program-8fs8fn/research/
   - entity_id: dea:ecosystem-platform-microsoft-partner-center-k3z997
     files: []
-    path: entities/v1-alpha/m/microsoft-partner-center-k3z997/candidates/research/
+    path: entities/v1-alpha/m/microsoft-partner-center-k3z997/research/
   - entity_id: dea:ecosystem-platform-microsoft-store-ufznhx
     files: []
-    path: entities/v1-alpha/m/microsoft-store-ufznhx/candidates/research/
+    path: entities/v1-alpha/m/microsoft-store-ufznhx/research/
   - entity_id: dea:ecosystem-platform-microsoft-teams-store-quecjh
     files: []
-    path: entities/v1-alpha/m/microsoft-teams-store-quecjh/candidates/research/
+    path: entities/v1-alpha/m/microsoft-teams-store-quecjh/research/
   - entity_id: dea:ecosystem-platform-miro-marketplace-msewf8
     files: []
-    path: entities/v1-alpha/m/miro-marketplace-msewf8/candidates/research/
+    path: entities/v1-alpha/m/miro-marketplace-msewf8/research/
   - entity_id: dea:ecosystem-platform-nasa-open-data-portal-pvpy6e
     files: []
-    path: entities/v1-alpha/n/nasa-open-data-portal-pvpy6e/candidates/research/
+    path: entities/v1-alpha/n/nasa-open-data-portal-pvpy6e/research/
   - entity_id: dea:ecosystem-platform-noaa-data-se657q
     files: []
-    path: entities/v1-alpha/n/noaa-data-se657q/candidates/research/
+    path: entities/v1-alpha/n/noaa-data-se657q/research/
   - entity_id: dea:ecosystem-platform-notion-integrations-qxwuhp
     files: []
-    path: entities/v1-alpha/n/notion-integrations-qxwuhp/candidates/research/
+    path: entities/v1-alpha/n/notion-integrations-qxwuhp/research/
   - entity_id: dea:ecosystem-platform-npm-registry-mcnkps
     files: []
-    path: entities/v1-alpha/n/npm-registry-mcnkps/candidates/research/
+    path: entities/v1-alpha/n/npm-registry-mcnkps/research/
   - entity_id: dea:ecosystem-platform-nuget-gallery-ewqfm9
     files: []
-    path: entities/v1-alpha/n/nuget-gallery-ewqfm9/candidates/research/
+    path: entities/v1-alpha/n/nuget-gallery-ewqfm9/research/
   - entity_id: dea:ecosystem-platform-odoo-apps-8bdrgn
     files: []
-    path: entities/v1-alpha/o/odoo-apps-8bdrgn/candidates/research/
+    path: entities/v1-alpha/o/odoo-apps-8bdrgn/research/
   - entity_id: dea:ecosystem-platform-oecd-data-explorer-a3cgcz
     files: []
-    path: entities/v1-alpha/o/oecd-data-explorer-a3cgcz/candidates/research/
+    path: entities/v1-alpha/o/oecd-data-explorer-a3cgcz/research/
   - entity_id: dea:ecosystem-platform-opendatasoft-network-yn5e23
     files: []
-    path: entities/v1-alpha/o/opendatasoft-network-yn5e23/candidates/research/
+    path: entities/v1-alpha/o/opendatasoft-network-yn5e23/research/
   - entity_id: dea:ecosystem-platform-oracle-cloud-marketplace-fdvb2t
     files: []
-    path: entities/v1-alpha/o/oracle-cloud-marketplace-fdvb2t/candidates/research/
+    path: entities/v1-alpha/o/oracle-cloud-marketplace-fdvb2t/research/
   - entity_id: dea:ecosystem-platform-our-world-in-data-7ghyds
     files: []
-    path: entities/v1-alpha/o/our-world-in-data-7ghyds/candidates/research/
+    path: entities/v1-alpha/o/our-world-in-data-7ghyds/research/
   - entity_id: dea:ecosystem-platform-packagist-72hb3x
     files: []
-    path: entities/v1-alpha/p/packagist-72hb3x/candidates/research/
+    path: entities/v1-alpha/p/packagist-72hb3x/research/
   - entity_id: dea:ecosystem-platform-paypal-partner-program-5djek9
     files: []
-    path: entities/v1-alpha/p/paypal-partner-program-5djek9/candidates/research/
+    path: entities/v1-alpha/p/paypal-partner-program-5djek9/research/
   - entity_id: dea:ecosystem-platform-pypi-jydyjq
     files: []
-    path: entities/v1-alpha/p/pypi-jydyjq/candidates/research/
+    path: entities/v1-alpha/p/pypi-jydyjq/research/
   - entity_id: dea:ecosystem-platform-red-hat-ecosystem-catalog-cn6rkq
     files: []
-    path: entities/v1-alpha/r/red-hat-ecosystem-catalog-cn6rkq/candidates/research/
+    path: entities/v1-alpha/r/red-hat-ecosystem-catalog-cn6rkq/research/
   - entity_id: dea:ecosystem-platform-rubygems-cm6j6f
     files: []
-    path: entities/v1-alpha/r/rubygems-cm6j6f/candidates/research/
+    path: entities/v1-alpha/r/rubygems-cm6j6f/research/
   - entity_id: dea:ecosystem-platform-salesforce-appexchange-62nj4t
     files: []
-    path: entities/v1-alpha/s/salesforce-appexchange-62nj4t/candidates/research/
+    path: entities/v1-alpha/s/salesforce-appexchange-62nj4t/research/
   - entity_id: dea:ecosystem-platform-salesforce-developers-e29hbw
     files: []
-    path: entities/v1-alpha/s/salesforce-developers-e29hbw/candidates/research/
+    path: entities/v1-alpha/s/salesforce-developers-e29hbw/research/
   - entity_id: dea:ecosystem-platform-salesforce-partner-program-qskqt4
     files: []
-    path: entities/v1-alpha/s/salesforce-partner-program-qskqt4/candidates/research/
+    path: entities/v1-alpha/s/salesforce-partner-program-qskqt4/research/
   - entity_id: dea:ecosystem-platform-sap-store-d7etdq
     files: []
-    path: entities/v1-alpha/s/sap-store-d7etdq/candidates/research/
+    path: entities/v1-alpha/s/sap-store-d7etdq/research/
   - entity_id: dea:ecosystem-platform-servicenow-store-aae52d
     files: []
-    path: entities/v1-alpha/s/servicenow-store-aae52d/candidates/research/
+    path: entities/v1-alpha/s/servicenow-store-aae52d/research/
   - entity_id: dea:ecosystem-platform-setapp-j8vzcb
     files: []
-    path: entities/v1-alpha/s/setapp-j8vzcb/candidates/research/
+    path: entities/v1-alpha/s/setapp-j8vzcb/research/
   - entity_id: dea:ecosystem-platform-shopify-app-store-9k78r2
     files: []
-    path: entities/v1-alpha/s/shopify-app-store-9k78r2/candidates/research/
+    path: entities/v1-alpha/s/shopify-app-store-9k78r2/research/
   - entity_id: dea:ecosystem-platform-shopify-partner-directory-spj6jy
     files: []
-    path: entities/v1-alpha/s/shopify-partner-directory-spj6jy/candidates/research/
+    path: entities/v1-alpha/s/shopify-partner-directory-spj6jy/research/
   - entity_id: dea:ecosystem-platform-shopify-partners-g4n98k
     files: []
-    path: entities/v1-alpha/s/shopify-partners-g4n98k/candidates/research/
+    path: entities/v1-alpha/s/shopify-partners-g4n98k/research/
   - entity_id: dea:ecosystem-platform-shopify-themes-2htdmf
     files: []
-    path: entities/v1-alpha/s/shopify-themes-2htdmf/candidates/research/
+    path: entities/v1-alpha/s/shopify-themes-2htdmf/research/
   - entity_id: dea:ecosystem-platform-slack-app-marketplace-xkcb9u
     files: []
-    path: entities/v1-alpha/s/slack-app-marketplace-xkcb9u/candidates/research/
+    path: entities/v1-alpha/s/slack-app-marketplace-xkcb9u/research/
   - entity_id: dea:ecosystem-platform-squarespace-extensions-medkmw
     files: []
-    path: entities/v1-alpha/s/squarespace-extensions-medkmw/candidates/research/
+    path: entities/v1-alpha/s/squarespace-extensions-medkmw/research/
   - entity_id: dea:ecosystem-platform-steam-bvqyg4
     files: []
-    path: entities/v1-alpha/s/steam-bvqyg4/candidates/research/
+    path: entities/v1-alpha/s/steam-bvqyg4/research/
   - entity_id: dea:ecosystem-platform-stripe-partners-program-y6uxd7
     files: []
-    path: entities/v1-alpha/s/stripe-partners-program-y6uxd7/candidates/research/
+    path: entities/v1-alpha/s/stripe-partners-program-y6uxd7/research/
   - entity_id: dea:ecosystem-platform-terraform-registry-xwgkn7
     files: []
-    path: entities/v1-alpha/t/terraform-registry-xwgkn7/candidates/research/
+    path: entities/v1-alpha/t/terraform-registry-xwgkn7/research/
   - entity_id: dea:ecosystem-platform-todoist-integrations-ywxbes
     files: []
-    path: entities/v1-alpha/t/todoist-integrations-ywxbes/candidates/research/
+    path: entities/v1-alpha/t/todoist-integrations-ywxbes/research/
   - entity_id: dea:ecosystem-platform-twilio-partner-program-hn5tft
     files: []
-    path: entities/v1-alpha/t/twilio-partner-program-hn5tft/candidates/research/
+    path: entities/v1-alpha/t/twilio-partner-program-hn5tft/research/
   - entity_id: dea:ecosystem-platform-un-open-data-4pd8dh
     files: []
-    path: entities/v1-alpha/u/un-open-data-4pd8dh/candidates/research/
+    path: entities/v1-alpha/u/un-open-data-4pd8dh/research/
   - entity_id: dea:ecosystem-platform-unity-asset-store-wbrjg5
     files: []
-    path: entities/v1-alpha/u/unity-asset-store-wbrjg5/candidates/research/
+    path: entities/v1-alpha/u/unity-asset-store-wbrjg5/research/
   - entity_id: dea:ecosystem-platform-unreal-marketplace-zuytvq
     files: []
-    path: entities/v1-alpha/u/unreal-marketplace-zuytvq/candidates/research/
+    path: entities/v1-alpha/u/unreal-marketplace-zuytvq/research/
   - entity_id: dea:ecosystem-platform-vs-code-marketplace-7gvbsm
     files: []
-    path: entities/v1-alpha/v/vs-code-marketplace-7gvbsm/candidates/research/
+    path: entities/v1-alpha/v/vs-code-marketplace-7gvbsm/research/
   - entity_id: dea:ecosystem-platform-webflow-apps-agt93p
     files: []
-    path: entities/v1-alpha/w/webflow-apps-agt93p/candidates/research/
+    path: entities/v1-alpha/w/webflow-apps-agt93p/research/
   - entity_id: dea:ecosystem-platform-who-global-health-observatory-6ncmpp
     files: []
-    path: entities/v1-alpha/w/who-global-health-observatory-6ncmpp/candidates/research/
+    path: entities/v1-alpha/w/who-global-health-observatory-6ncmpp/research/
   - entity_id: dea:ecosystem-platform-wix-app-market-z4c5nm
     files: []
-    path: entities/v1-alpha/w/wix-app-market-z4c5nm/candidates/research/
+    path: entities/v1-alpha/w/wix-app-market-z4c5nm/research/
   - entity_id: dea:ecosystem-platform-woocommerce-marketplace-xtza5v
     files: []
-    path: entities/v1-alpha/w/woocommerce-marketplace-xtza5v/candidates/research/
+    path: entities/v1-alpha/w/woocommerce-marketplace-xtza5v/research/
   - entity_id: dea:ecosystem-platform-wordpress-plugin-directory-nahnsg
     files: []
-    path: entities/v1-alpha/w/wordpress-plugin-directory-nahnsg/candidates/research/
+    path: entities/v1-alpha/w/wordpress-plugin-directory-nahnsg/research/
   - entity_id: dea:ecosystem-platform-workday-marketplace-3gkvkf
     files: []
-    path: entities/v1-alpha/w/workday-marketplace-3gkvkf/candidates/research/
+    path: entities/v1-alpha/w/workday-marketplace-3gkvkf/research/
   - entity_id: dea:ecosystem-platform-world-bank-open-data-qz6nxh
     files: []
-    path: entities/v1-alpha/w/world-bank-open-data-qz6nxh/candidates/research/
+    path: entities/v1-alpha/w/world-bank-open-data-qz6nxh/research/
   - entity_id: dea:ecosystem-platform-zapier-app-directory-vanbex
     files: []
-    path: entities/v1-alpha/z/zapier-app-directory-vanbex/candidates/research/
+    path: entities/v1-alpha/z/zapier-app-directory-vanbex/research/
   - entity_id: dea:ecosystem-platform-zendesk-marketplace-yrdv7m
     files: []
-    path: entities/v1-alpha/z/zendesk-marketplace-yrdv7m/candidates/research/
+    path: entities/v1-alpha/z/zendesk-marketplace-yrdv7m/research/
   - entity_id: dea:ecosystem-platform-zoom-partner-program-xzkhb3
     files: []
-    path: entities/v1-alpha/z/zoom-partner-program-xzkhb3/candidates/research/
+    path: entities/v1-alpha/z/zoom-partner-program-xzkhb3/research/
   status: active
   version: 0.1.0
