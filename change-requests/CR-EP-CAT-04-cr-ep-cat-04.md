@@ -1,6 +1,8 @@
-# CR-EP-CAT-01: EcosystemPlatform Candidate Admission Batch 02 (1Password Integrations … Zoom Partner Program)
+# CR-EP-CAT-04: EcosystemPlatform Candidate Admission Batch 02 (1Password Integrations … Zoom Partner Program)
 
 **Status**: Landed (this PR)
+
+**Numbering correction**: this CR landed under `CR-EP-CAT-01`, colliding with the foundation/groundwork CR number of the same series. Renumbered to `CR-EP-CAT-04` by the naming-correction CR (BC-01A renumbering precedent); content unchanged.
 **Layer**: Catalog content (candidate corpus admission)
 **Owner**: Emmanuel A. Otchere
 **Date**: 2026-11-15
