@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Zoom Partner Program'
+name: Zoom Partner Program
+description: 'Zoom Partner Program — a published ecosystem platform operated by Zoom (platform_kind: partner-api-program;
+  homepage https://explore.zoom.us/en/partner-portal/).'
+platform_kind: partner-api-program
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://explore.zoom.us/en/partner-portal/ (official Zoom Partner Program platform page;
+      operator: Zoom)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- partner-api-program
+- zoom
+slug: zoom-partner-program

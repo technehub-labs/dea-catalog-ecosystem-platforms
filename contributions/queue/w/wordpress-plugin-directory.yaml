@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: WordPress Plugin Directory'
+name: WordPress Plugin Directory
+description: 'WordPress Plugin Directory — a published ecosystem platform operated by WordPress community
+  (platform_kind: marketplace; homepage https://wordpress.org/plugins/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://wordpress.org/plugins/ (official WordPress Plugin Directory platform page; operator:
+      WordPress community)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- wordpress-community
+slug: wordpress-plugin-directory

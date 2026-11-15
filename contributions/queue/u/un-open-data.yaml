@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: UN Open Data'
+name: UN Open Data
+description: 'UN Open Data — a published ecosystem platform operated by United Nations (platform_kind:
+  data-exchange; homepage https://data.un.org/).'
+platform_kind: data-exchange
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.un.org/ (official UN Open Data platform page; operator: United Nations)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- data-exchange
+- united-nations
+slug: un-open-data

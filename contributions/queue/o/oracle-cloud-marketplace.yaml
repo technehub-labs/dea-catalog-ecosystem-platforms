@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Oracle Cloud Marketplace'
+name: Oracle Cloud Marketplace
+description: 'Oracle Cloud Marketplace — a published ecosystem platform operated by Oracle (platform_kind:
+  marketplace; homepage https://cloudmarketplace.oracle.com/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://cloudmarketplace.oracle.com/ (official Oracle Cloud Marketplace platform page;
+      operator: Oracle)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- oracle
+slug: oracle-cloud-marketplace

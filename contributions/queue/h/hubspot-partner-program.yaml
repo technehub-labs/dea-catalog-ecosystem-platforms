@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: HubSpot Partner Program'
+name: HubSpot Partner Program
+description: 'HubSpot Partner Program — a published ecosystem platform operated by HubSpot (platform_kind:
+  partner-api-program; homepage https://ecosystem.hubspot.com/partners).'
+platform_kind: partner-api-program
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://ecosystem.hubspot.com/partners (official HubSpot Partner Program platform page;
+      operator: HubSpot)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- partner-api-program
+- hubspot
+slug: hubspot-partner-program

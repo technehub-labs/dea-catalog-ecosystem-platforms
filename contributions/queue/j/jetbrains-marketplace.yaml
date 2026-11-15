@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: JetBrains Marketplace'
+name: JetBrains Marketplace
+description: 'JetBrains Marketplace — a published ecosystem platform operated by JetBrains (platform_kind:
+  marketplace; homepage https://plugins.jetbrains.com/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://plugins.jetbrains.com/ (official JetBrains Marketplace platform page; operator:
+      JetBrains)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- jetbrains
+slug: jetbrains-marketplace

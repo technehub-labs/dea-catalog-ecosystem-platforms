@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Go Module Proxy'
+name: Go Module Proxy
+description: 'Go Module Proxy — a published ecosystem platform operated by Go community (platform_kind:
+  marketplace; homepage https://proxy.golang.org/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://proxy.golang.org/ (official Go Module Proxy platform page; operator: Go community)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- go-community
+slug: go-module-proxy

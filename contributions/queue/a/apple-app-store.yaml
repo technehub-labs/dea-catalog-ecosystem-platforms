@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: curated-platforms.json
+source_ref: 'platform: Apple App Store'
+name: Apple App Store
+description: 'Apple App Store — a published ecosystem platform operated by Apple (platform_kind: marketplace;
+  homepage https://apps.apple.com/).'
+platform_kind: marketplace
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://apps.apple.com/ (official Apple App Store platform page; operator: Apple)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
+    of the published platform type.
+tags:
+- marketplace
+- apple
+slug: apple-app-store
