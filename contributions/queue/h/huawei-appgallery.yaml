@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Huawei AppGallery'
 name: Huawei AppGallery
-description: 'Huawei AppGallery — a published ecosystem platform operated by Huawei (platform_kind: marketplace;
-  homepage https://appgallery.huawei.com/).'
+description: 'Huawei AppGallery — a published ecosystem platform operated by Huawei
+  (platform_kind: marketplace; homepage https://appgallery.huawei.com/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://appgallery.huawei.com/ (official Huawei AppGallery platform page; operator: Huawei)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://appgallery.huawei.com/ (official Huawei AppGallery platform
+      page; operator: Huawei)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - huawei
 slug: huawei-appgallery
+assigned_id: dea:ecosystem-platform-huawei-appgallery-4fuyn7
+admitted: '2026-11-15'

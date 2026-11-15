@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Our World in Data'
 name: Our World in Data
-description: 'Our World in Data — a published ecosystem platform operated by Our World in Data (platform_kind:
-  data-exchange; homepage https://ourworldindata.org/).'
+description: 'Our World in Data — a published ecosystem platform operated by Our World
+  in Data (platform_kind: data-exchange; homepage https://ourworldindata.org/).'
 platform_kind: data-exchange
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://ourworldindata.org/ (official Our World in Data platform page; operator: Our World
-      in Data)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://ourworldindata.org/ (official Our World in Data platform page;
+      operator: Our World in Data)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - data-exchange
 - our-world-in-data
 slug: our-world-in-data
+assigned_id: dea:ecosystem-platform-our-world-in-data-7ghyds
+admitted: '2026-11-15'

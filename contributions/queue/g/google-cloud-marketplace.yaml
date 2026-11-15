@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Google Cloud Marketplace'
 name: Google Cloud Marketplace
-description: 'Google Cloud Marketplace — a published ecosystem platform operated by Google (platform_kind:
-  marketplace; homepage https://cloud.google.com/marketplace).'
+description: 'Google Cloud Marketplace — a published ecosystem platform operated by
+  Google (platform_kind: marketplace; homepage https://cloud.google.com/marketplace).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://cloud.google.com/marketplace (official Google Cloud Marketplace platform page;
-      operator: Google)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://cloud.google.com/marketplace (official Google Cloud Marketplace
+      platform page; operator: Google)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - google
 slug: google-cloud-marketplace
+assigned_id: dea:ecosystem-platform-google-cloud-marketplace-rrfv2r
+admitted: '2026-11-15'

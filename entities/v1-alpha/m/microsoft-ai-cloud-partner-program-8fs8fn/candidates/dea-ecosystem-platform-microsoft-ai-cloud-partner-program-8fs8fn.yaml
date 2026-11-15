@@ -1,0 +1,33 @@
+id: dea:ecosystem-platform-microsoft-ai-cloud-partner-program-8fs8fn
+type: EcosystemPlatform
+name: Microsoft AI Cloud Partner Program
+description: 'Microsoft AI Cloud Partner Program — a published ecosystem platform
+  operated by Microsoft (platform_kind: partner-api-program; homepage https://partner.microsoft.com/en-us/membership).'
+version: 0.1.0
+lifecycle_status: proposed
+platform_kind: partner-api-program
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://partner.microsoft.com/en-us/membership (official Microsoft
+      AI Cloud Partner Program platform page; operator: Microsoft)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- partner-api-program
+- microsoft

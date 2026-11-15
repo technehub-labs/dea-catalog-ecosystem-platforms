@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: AWS Marketplace'
 name: AWS Marketplace
-description: 'AWS Marketplace — a published ecosystem platform operated by Amazon (platform_kind: marketplace;
-  homepage https://aws.amazon.com/marketplace).'
+description: 'AWS Marketplace — a published ecosystem platform operated by Amazon
+  (platform_kind: marketplace; homepage https://aws.amazon.com/marketplace).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://aws.amazon.com/marketplace (official AWS Marketplace platform page; operator:
-      Amazon)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://aws.amazon.com/marketplace (official AWS Marketplace platform
+      page; operator: Amazon)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - amazon
 slug: aws-marketplace
+assigned_id: dea:ecosystem-platform-aws-marketplace-yh54tc
+admitted: '2026-11-15'

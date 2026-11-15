@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Twilio Partner Program'
 name: Twilio Partner Program
-description: 'Twilio Partner Program — a published ecosystem platform operated by Twilio (platform_kind:
-  partner-api-program; homepage https://www.twilio.com/partners).'
+description: 'Twilio Partner Program — a published ecosystem platform operated by
+  Twilio (platform_kind: partner-api-program; homepage https://www.twilio.com/partners).'
 platform_kind: partner-api-program
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://www.twilio.com/partners (official Twilio Partner Program platform page; operator:
-      Twilio)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://www.twilio.com/partners (official Twilio Partner Program platform
+      page; operator: Twilio)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - partner-api-program
 - twilio
 slug: twilio-partner-program
+assigned_id: dea:ecosystem-platform-twilio-partner-program-hn5tft
+admitted: '2026-11-15'

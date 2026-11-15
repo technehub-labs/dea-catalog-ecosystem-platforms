@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: WooCommerce Marketplace'
 name: WooCommerce Marketplace
-description: 'WooCommerce Marketplace — a published ecosystem platform operated by Automattic (platform_kind:
-  marketplace; homepage https://woocommerce.com/products/).'
+description: 'WooCommerce Marketplace — a published ecosystem platform operated by
+  Automattic (platform_kind: marketplace; homepage https://woocommerce.com/products/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://woocommerce.com/products/ (official WooCommerce Marketplace platform page; operator:
-      Automattic)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://woocommerce.com/products/ (official WooCommerce Marketplace
+      platform page; operator: Automattic)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - automattic
 slug: woocommerce-marketplace
+assigned_id: dea:ecosystem-platform-woocommerce-marketplace-xtza5v
+admitted: '2026-11-15'

@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Canva Apps'
 name: Canva Apps
-description: 'Canva Apps — a published ecosystem platform operated by Canva (platform_kind: marketplace;
-  homepage https://www.canva.com/apps/).'
+description: 'Canva Apps — a published ecosystem platform operated by Canva (platform_kind:
+  marketplace; homepage https://www.canva.com/apps/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://www.canva.com/apps/ (official Canva Apps platform page; operator: Canva)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://www.canva.com/apps/ (official Canva Apps platform page; operator:
+      Canva)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - canva
 slug: canva-apps
+assigned_id: dea:ecosystem-platform-canva-apps-yy3q3r
+admitted: '2026-11-15'

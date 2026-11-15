@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Chrome Web Store'
 name: Chrome Web Store
-description: 'Chrome Web Store — a published ecosystem platform operated by Google (platform_kind: marketplace;
-  homepage https://chromewebstore.google.com/).'
+description: 'Chrome Web Store — a published ecosystem platform operated by Google
+  (platform_kind: marketplace; homepage https://chromewebstore.google.com/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://chromewebstore.google.com/ (official Chrome Web Store platform page; operator:
-      Google)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://chromewebstore.google.com/ (official Chrome Web Store platform
+      page; operator: Google)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - google
 slug: chrome-web-store
+assigned_id: dea:ecosystem-platform-chrome-web-store-4tnm23
+admitted: '2026-11-15'

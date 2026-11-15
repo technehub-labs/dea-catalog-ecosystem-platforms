@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Apple Developer Program'
 name: Apple Developer Program
-description: 'Apple Developer Program — a published ecosystem platform operated by Apple (platform_kind:
-  developer-portal; homepage https://developer.apple.com/programs/).'
+description: 'Apple Developer Program — a published ecosystem platform operated by
+  Apple (platform_kind: developer-portal; homepage https://developer.apple.com/programs/).'
 platform_kind: developer-portal
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://developer.apple.com/programs/ (official Apple Developer Program platform page;
-      operator: Apple)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://developer.apple.com/programs/ (official Apple Developer Program
+      platform page; operator: Apple)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - developer-portal
 - apple
 slug: apple-developer-program
+assigned_id: dea:ecosystem-platform-apple-developer-program-jgkje2
+admitted: '2026-11-15'

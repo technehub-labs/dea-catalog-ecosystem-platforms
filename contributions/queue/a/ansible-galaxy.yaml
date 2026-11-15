@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Ansible Galaxy'
 name: Ansible Galaxy
-description: 'Ansible Galaxy — a published ecosystem platform operated by Red Hat (platform_kind: marketplace;
-  homepage https://galaxy.ansible.com/).'
+description: 'Ansible Galaxy — a published ecosystem platform operated by Red Hat
+  (platform_kind: marketplace; homepage https://galaxy.ansible.com/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://galaxy.ansible.com/ (official Ansible Galaxy platform page; operator: Red Hat)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://galaxy.ansible.com/ (official Ansible Galaxy platform page;
+      operator: Red Hat)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - red-hat
 slug: ansible-galaxy
+assigned_id: dea:ecosystem-platform-ansible-galaxy-qz5kx6
+admitted: '2026-11-15'

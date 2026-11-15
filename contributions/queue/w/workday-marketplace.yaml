@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Workday Marketplace'
 name: Workday Marketplace
-description: 'Workday Marketplace — a published ecosystem platform operated by Workday (platform_kind:
-  marketplace; homepage https://marketplace.workday.com/).'
+description: 'Workday Marketplace — a published ecosystem platform operated by Workday
+  (platform_kind: marketplace; homepage https://marketplace.workday.com/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://marketplace.workday.com/ (official Workday Marketplace platform page; operator:
-      Workday)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://marketplace.workday.com/ (official Workday Marketplace platform
+      page; operator: Workday)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - workday
 slug: workday-marketplace
+assigned_id: dea:ecosystem-platform-workday-marketplace-3gkvkf
+admitted: '2026-11-15'

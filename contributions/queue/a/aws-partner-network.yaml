@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: AWS Partner Network'
 name: AWS Partner Network
-description: 'AWS Partner Network — a published ecosystem platform operated by Amazon (platform_kind:
-  partner-api-program; homepage https://aws.amazon.com/partners/).'
+description: 'AWS Partner Network — a published ecosystem platform operated by Amazon
+  (platform_kind: partner-api-program; homepage https://aws.amazon.com/partners/).'
 platform_kind: partner-api-program
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://aws.amazon.com/partners/ (official AWS Partner Network platform page; operator:
-      Amazon)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://aws.amazon.com/partners/ (official AWS Partner Network platform
+      page; operator: Amazon)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - partner-api-program
 - amazon
 slug: aws-partner-network
+assigned_id: dea:ecosystem-platform-aws-partner-network-vf9epm
+admitted: '2026-11-15'

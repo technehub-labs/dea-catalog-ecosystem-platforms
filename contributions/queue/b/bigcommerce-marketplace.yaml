@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: BigCommerce Marketplace'
 name: BigCommerce Marketplace
-description: 'BigCommerce Marketplace — a published ecosystem platform operated by BigCommerce (platform_kind:
-  marketplace; homepage https://www.bigcommerce.com/apps/).'
+description: 'BigCommerce Marketplace — a published ecosystem platform operated by
+  BigCommerce (platform_kind: marketplace; homepage https://www.bigcommerce.com/apps/).'
 platform_kind: marketplace
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://www.bigcommerce.com/apps/ (official BigCommerce Marketplace platform page; operator:
-      BigCommerce)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://www.bigcommerce.com/apps/ (official BigCommerce Marketplace
+      platform page; operator: BigCommerce)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - marketplace
 - bigcommerce
 slug: bigcommerce-marketplace
+assigned_id: dea:ecosystem-platform-bigcommerce-marketplace-g69v7f
+admitted: '2026-11-15'

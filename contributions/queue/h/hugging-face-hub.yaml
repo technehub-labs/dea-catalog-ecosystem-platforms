@@ -1,20 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: curated-platforms.json
 source_ref: 'platform: Hugging Face Hub'
 name: Hugging Face Hub
-description: 'Hugging Face Hub — a published ecosystem platform operated by Hugging Face (platform_kind:
-  data-exchange; homepage https://huggingface.co/datasets).'
+description: 'Hugging Face Hub — a published ecosystem platform operated by Hugging
+  Face (platform_kind: data-exchange; homepage https://huggingface.co/datasets).'
 platform_kind: data-exchange
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://huggingface.co/datasets (official Hugging Face Hub platform page; operator: Hugging
-      Face)'
-  rationale: Cited from the platform's own published homepage. platform_kind is a direct classification
-    of the published platform type.
+    reference: 'https://huggingface.co/datasets (official Hugging Face Hub platform
+      page; operator: Hugging Face)'
+  rationale: Cited from the platform's own published homepage. platform_kind is a
+    direct classification of the published platform type.
 tags:
 - data-exchange
 - hugging-face
 slug: hugging-face-hub
+assigned_id: dea:ecosystem-platform-hugging-face-hub-y7eswp
+admitted: '2026-11-15'
